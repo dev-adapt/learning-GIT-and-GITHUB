@@ -11,4 +11,5 @@ div{
     margin: 100px;
     border: 1px solid white;
     text-align: center;
+    padding: auto;
 }
