@@ -1,4 +1,9 @@
+body{
+    background-color: rgb(56, 56, 56);
+    color:rgb(239, 239, 239);
+}
 h1{
-    background-color: beige;
-    color: cadetblue;
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
 }
